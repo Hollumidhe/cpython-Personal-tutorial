@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+firstName = "Michael"
+lastName = "Olumide"
+age = "1000"
+print("My name is {} {} and i am {} years".format(firstName, lastName, age))
