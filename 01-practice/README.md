@@ -25,3 +25,36 @@ View the result [here](https://github.com/olumide12-cell/cpython-Personal-tutori
 View the result [here](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/01-practice/print_integer)
 
 [Another simple way](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/01-practice/print_intger2.py)
+
+3. Complete the source code in order to print the float stored in the variable number with a precision of 2 digits.
+
+
+* The output of the program should be:
+
+  * Float:, followed by the float with only 2 digits
+
+  * followed by a new line
+
+  * You are not allowed to cast number to string
+
+  * You have to use f-strings
+View the reult [here](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/01-practice/print_float.py)
+[Another simple way](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/01-practice/print_float2.py)
+
+4. Complete this source code in order to print 3 times a string stored in the variable str, followed by its first 9 characters.
+
+* The output of the program should be:
+
+  * 3 times the value of str
+
+  * followed by a new line
+
+  * followed by the 9 first characters of str
+
+  * followed by a new line
+
+* You are not allowed to use any loops or conditional statement
+
+* Your program should be maximum 5 lines long
+View the result [here](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/01-practice/print_string_3_times)
+[Another simple way here](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/01-practice/print_string_3_times1)
