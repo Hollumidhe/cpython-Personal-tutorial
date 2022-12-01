@@ -1,3 +1,0 @@
-#!/usr/bin/pthon3
-number = 3.8975
-print(f"Float: {number:.2f}")
