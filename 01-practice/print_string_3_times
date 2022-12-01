@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+str = "Federal is my school\n"
+print(str * 3)
+print(str[:9])
