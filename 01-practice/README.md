@@ -85,3 +85,15 @@ View the result [here](https://github.com/olumide12-cell/cpython-Personal-tutori
 * middle_word should contain the value of the variable word * without the first and last letters
 View the resul [here](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/01-practice/word_long_range)
 [Another simple way to understand it here](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/01-practice/word_long_range1)
+
+7. Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py) to print object-oriented programming with Python, followed by a new line.
+
+
+* You are not allowed to use any loops or conditional statements
+
+* Your program should be exactly 5 lines long
+
+* You are not allowed to create new variables
+
+* You are not allowed to use string literals
+View the result [here](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/01-practice/create_new_sentences)
