@@ -61,7 +61,6 @@ View the result [here](https://github.com/olumide12-cell/cpython-Personal-tutori
 
 5. Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py) to print Welcome to Holberton School!
 
-
 You are not allowed to use any loops or conditional statements.
 
 You have to use the variables str1 and str2 in your new line of code
@@ -69,3 +68,4 @@ You have to use the variables str1 and str2 in your new line of code
 Your program should be exactly 5 lines long
 View the result [here](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/01-practice/play_with_string)
 [Another way to understand it is here](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/01-practice/play_with_string1)
+[Here is another beautiful example](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/01-practice/play_with_string2)
