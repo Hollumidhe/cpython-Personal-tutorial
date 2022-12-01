@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+mail = "omoayarabiasa1234@yahoo.com\n"
+result = f'{mail}\n' * 3
+print(result)
+print(result[:10])
