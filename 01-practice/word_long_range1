@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+text = "The text is much fine"
+the_first_word = text[:3]
+the_middle_word = text[1:-1]
+the_last_word = text[-4:]
+print("the first word in the sentences is: {}" .format(the_first_word))
+print("the middle word in the sentences is: {}" .format(the_middle_word))
+print("The last word in the sentences is: {}" .format(the_last_word))
