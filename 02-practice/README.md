@@ -67,3 +67,15 @@ This program will assign a random signed number to the variable number each time
     * if the number is less than 0: is negative
 
   * followed by a new line
+View the result [here](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/02-practice/positive-or-negative)
+
+
+Another simple way of if statement here:
+
+
+
+* Write a program to check whether a person is eligible to vote or not.
+
+View the result [here](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/02-practice/positive-or-negative1)
+
+Also [here](https://github.com/olumide12-cell/cpython-Personal-tutorial/blob/master/02-practice/eligible.py) 
