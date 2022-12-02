@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+import random
+age = random.randint(-18, 18)
+if age > 18:
+   print(f"{age:d} You are eligible to vote")
+elif age == 18:
+     print(f"{age:d} you are eligible to vote")
+else:
+	print(f"{age:d} sorry champ you can not vote here")
